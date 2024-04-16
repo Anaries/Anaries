@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Welcome to my GitHub Page 😃
+
+My name is Raji Ibrahim, front-end developer in the making!
+
+
 <!--
 **Anaries/Anaries** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
